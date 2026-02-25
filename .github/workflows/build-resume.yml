@@ -1,0 +1,35 @@
+name: Build Resume PDF
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.typ'
+      - 'fonts/**'
+      - 'icons/**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Typst
+        uses: typst-community/setup-typst@v3
+        with:
+          typst-version: 'latest'
+      
+      - name: Compile Typst document to PDF
+        run: typst compile main.typ Isuru_Pathirana_Resume.pdf
+      
+      - name: Commit and push PDF
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add Isuru_Pathirana_Resume.pdf
+          git diff --staged --quiet || git commit -m "Update resume PDF [skip ci]"
+          git push

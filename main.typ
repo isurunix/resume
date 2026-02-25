@@ -46,16 +46,19 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
 
 #section("Work Experience")
 
-#experience("Technical Specialist", "Wiley", "Jul 2025", "Present", "Colombo, LK")
+#experience("Technical Specialist - Software Engineering | Wiley", "Virtusa", "Feb 2026", "Present", "Colombo, LK")
+- Continue to provide technical leadership and guidance as a Team Lead & Dev SME for Wiley after the acquisition of Wiley Sri Lanka by Virtusa, ensuring continuity and stability in delivery and operations.
+
+#experience("Technical Specialist - Software Engineering", "Wiley", "Jul 2025", "Present", "Colombo, LK")
 - Owned the delivery and operational readiness of multiple back-end services as a Team Lead & Dev SME, setting delivery priorities and providing hands-on technical guidance across services, workflows, and release management, keeping delivery momentum and QA moving during resource gaps.
 - Modernized mission-critical workflow engine by migrating to Java 17, coordinating minimum downtime multi-environment rollouts.
 - Led the implementation and delivery plan for migrating legacy order data to the new order management system, identifying gaps and providing solutions.
 - Piloted agentic AI and MCP integrations with existing dev tools to speed up triage and resolution of production issues, reducing MTTR by 20%
 - Owned the backlog of tech-debts and triaged and prioritized tech debts to ensure critical debts are addressed in time. 
 
-#linebreak()
+#pagebreak()
 
-#experience("Associate Technical Specialist", "Wiley", "Dec 2023", "Jun 2025", "Colombo, LK")
+#experience("Associate Technical Specialist - Software Engineering", "Wiley", "Dec 2023", "Jun 2025", "Colombo, LK")
 - Led a team of 7 developers through the successful completion of multiple features with zero P1, P2 incidents by providing the technical leadership and guidance through code reviews, discussions, and pair programming.
 - Owned multiple key deliveries, including an enterprise-scale project to overhaul the price and order management back-end of the Wiley research publication platform.
 - Provided timely fixes and workarounds for production issues as a key escalation point for L3 support
@@ -88,7 +91,7 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
 - Acted as the primary contact point for clients to resolve operational issues.
 - Supported the implementation of best practices in Agile methodologies to streamline development processes.
 
-#linebreak()
+#pagebreak()
 
 #experience("Software Engineer", "Surecore Pvt Ltd", "Sept 2019", "Feb 2020", "Colombo, LK")
 - Played a key role in an agile team tasked with developing a bespoke insure-tech solution for growing markets.
@@ -96,7 +99,6 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
 - Developed multiple Angular modules.
 - Improved and maintained CI pipelines with Jenkins.
 
-#pagebreak()
 
 #experience("Software Engineer", "Digital Micro Services", "Jun 2017", "Sept 2019", "Colombo, LK (Remote)")
 - Worked with tech leads and architects to develop software solutions for Australian Telco providers.
@@ -125,8 +127,8 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
     Principal Engineer\
     Wiley, Canada\
     +94 (71) 276 0585 (LK)\
-    +1 (437) 232 9596\
-    mlankeshwara\@wiley.com
+    +1 (437) 232 9596 (CA)\
+    minidumalya\@gmail.com
   ],
   align(left)[
     *Thilani Abeysooriya*\
