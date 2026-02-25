@@ -131,10 +131,10 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
     minidumalya\@gmail.com
   ],
   align(left)[
-    *Thilani Abeysooriya*\
-    Senior Software Engineering Manager (SPO)\
-    IFS R&D International, Sri Lanka\
-    +94 (71) 837 8516 (LK)\
-    thil.abeysooriya\@gmail.com
+    *Chamikara Gunaratna*\
+    Director, Software Engineering\
+    Wiley Global Technology (Pvt) Ltd, Sri Lanka\
+    +94 (77) 824 0578 (LK)\
+    chamikara\@gmail.com
   ]
 )
