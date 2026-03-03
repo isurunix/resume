@@ -31,7 +31,7 @@
 
 #let experience(designation, company, from, to, location) = {
   grid(
-    columns: (1fr, 1fr),
+    columns: (1fr, 0.75fr),
     align(left)[
       *#designation*\
       #company

@@ -22,7 +22,7 @@
   (icon: "location", label: "Colombo, LK"),
 )
 
-#candidate_name("Isuru Pathirana", "Senior Engineer, Technical Lead")
+#candidate_name("Isuru Pathirana", "Technical Lead, Senior Engineer")
 
 #linkBar(links)\
 // #labelBar(labels)
@@ -31,7 +31,7 @@
 
 #set par(justify: true)
 
-Experienced Software Engineer with 9+ years of experience in developing and designing distributed software solutions at both enterprise and startup scale with proven expertise in Java/Spring Boot, micro-services & cloud-native architectures, modernizing legacy platforms.\
+Experienced Senior Engineer, with 9+ years of experience in developing and designing distributed software solutions at both enterprise and startup scale with proven expertise in Java/Spring Boot, micro-services & cloud-native architectures, modernizing legacy platforms.\
 Adept at leading cross-functional agile teams, driving engineering excellence,
 and mentoring developers. Skilled in service ownership, RCA, and delivering resilient, high-availability systems with measurable improvements in performance, scalability, and operational readiness.
 
@@ -46,10 +46,10 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
 
 #section("Work Experience")
 
-#experience("Technical Specialist - Software Engineering | Wiley", "Virtusa", "Feb 2026", "Present", "Colombo, LK")
+#experience("Technical Specialist I (Technical Lead) -  Wiley", "Virtusa", "Feb 2026", "Present", "Colombo, LK")
 - Continue to provide technical leadership and guidance as a Team Lead & Dev SME for Wiley after the acquisition of Wiley Sri Lanka by Virtusa, ensuring continuity and stability in delivery and operations.
 
-#experience("Technical Specialist - Software Engineering", "Wiley", "Jul 2025", "Present", "Colombo, LK")
+#experience("Technical Specialist I (Technical Lead)", "Wiley", "Jul 2025", "Feb 2026", "Colombo, LK")
 - Owned the delivery and operational readiness of multiple back-end services as a Team Lead & Dev SME, setting delivery priorities and providing hands-on technical guidance across services, workflows, and release management, keeping delivery momentum and QA moving during resource gaps.
 - Modernized mission-critical workflow engine by migrating to Java 17, coordinating minimum downtime multi-environment rollouts.
 - Led the implementation and delivery plan for migrating legacy order data to the new order management system, identifying gaps and providing solutions.
@@ -58,7 +58,7 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
 
 #pagebreak()
 
-#experience("Associate Technical Specialist - Software Engineering", "Wiley", "Dec 2023", "Jun 2025", "Colombo, LK")
+#experience("Associate Technical Specialist (Associate Technical Lead)", "Wiley", "Dec 2023", "Jun 2025", "Colombo, LK")
 - Led a team of 7 developers through the successful completion of multiple features with zero P1, P2 incidents by providing the technical leadership and guidance through code reviews, discussions, and pair programming.
 - Owned multiple key deliveries, including an enterprise-scale project to overhaul the price and order management back-end of the Wiley research publication platform.
 - Provided timely fixes and workarounds for production issues as a key escalation point for L3 support
