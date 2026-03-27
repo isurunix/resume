@@ -31,17 +31,17 @@
 
 #set par(justify: true)
 
-Experienced Senior Engineer, with 9+ years of experience in developing and designing distributed software solutions at both enterprise and startup scale with proven expertise in Java/Spring Boot, micro-services & cloud-native architectures, modernizing legacy platforms.\
+Technical lead, with over 9 years of experience in developing and designing distributed software solutions at both enterprise and startup scale with proven expertise in Java/Spring Boot, micro-services & cloud-native architectures, modernizing legacy platforms.\
 Adept at leading cross-functional agile teams, driving engineering excellence,
 and mentoring developers. Skilled in service ownership, RCA, and delivering resilient, high-availability systems with measurable improvements in performance, scalability, and operational readiness.
 
 #section("Skills")
-- Languages: Java, JavaScript/TypeScript, Python, BASH, PowerShell
+- Languages: Java, JavaScript/TypeScript, Python
 - Frameworks: Spring Boot, Hibernate, Node.js, React,
-- Databases: MySQL, PostgreSQL, MongoDB, Redis
+- Databases: MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
 - Messaging: Kafka, JMS
 - Cloud Platforms: AWS
-- Tools & Libraries: Git, Docker, Kubernetes, Jenkins, GitHub Actions, Liquibase, Selenium, Playwright
+- Tools & Infrastructure: Git, Docker, Linux, BASH, Kubernetes, Jenkins, Liquibase, Selenium, Playwright
 - Methodologies: SAFe, Scrum, Kanban
 
 #section("Work Experience")
@@ -54,7 +54,7 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
 - Modernized mission-critical workflow engine by migrating to Java 17, coordinating minimum downtime multi-environment rollouts.
 - Led the implementation and delivery plan for migrating legacy order data to the new order management system, identifying gaps and providing solutions.
 - Piloted agentic AI and MCP integrations with existing dev tools to speed up triage and resolution of production issues, reducing MTTR by 20%
-- Owned the backlog of tech-debts and triaged and prioritized tech debts to ensure critical debts are addressed in time. 
+- Owned the backlog of tech-debts and triaged and prioritized tech debts to ensure critical debts are addressed in time.
 
 #pagebreak()
 
