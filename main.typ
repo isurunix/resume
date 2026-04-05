@@ -31,9 +31,7 @@
 
 #set par(justify: true)
 
-Technical lead, with over 9 years of experience in developing and designing distributed software solutions at both enterprise and startup scale with proven expertise in Java/Spring Boot, micro-services & cloud-native architectures, modernizing legacy platforms.\
-Adept at leading cross-functional agile teams, driving engineering excellence,
-and mentoring developers. Skilled in service ownership, RCA, and delivering resilient, high-availability systems with measurable improvements in performance, scalability, and operational readiness.
+Senior Engineer, with over 9 years of experience in developing and designing distributed software solutions at enterprise scale with proven track record of operating beyond team boundries, driving architectural decisions, shaping engineering practices and unblocking cross-team delivery. Deep expertise in Java/Spring Boot, micro-services & cloud-native architectures and modernizing legacy platform with hands on experience in production ownership, incident resolution and technical leadership. Effective technical mentor and cross-functional collaborator with strong communication skills, able to distill complex technical concepts for diverse audiences and drive alignment across teams and stakeholders.
 
 #section("Skills")
 - Languages: Java, JavaScript/TypeScript, Python
@@ -53,22 +51,25 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
 - Owned the delivery and operational readiness of multiple back-end services as a Team Lead & Dev SME, setting delivery priorities and providing hands-on technical guidance across services, workflows, and release management, keeping delivery momentum and QA moving during resource gaps.
 - Modernized mission-critical workflow engine by migrating to Java 17, coordinating minimum downtime multi-environment rollouts.
 - Led the implementation and delivery plan for migrating legacy order data to the new order management system, identifying gaps and providing solutions.
-- Piloted agentic AI and MCP integrations with existing dev tools to speed up triage and resolution of production issues, reducing MTTR by 20%
-- Owned the backlog of tech-debts and triaged and prioritized tech debts to ensure critical debts are addressed in time.
+- Pioneered agentic AI and MCP integrations into the engineering workflow for production triage, establishing team-level best practices and reducing MTTR by 20%.
+- Owned and prioritised the tech debt backlog, ensuring critical debts were systematically addressed to maintain platform stability.
+- Leading the design and delivery of a multi-payer order model in close collaboration with architects and principal engineers, owning technical design, trade-off analysis, and deployment strategy end-to-end.
+- Served as a cross-team technical resource, guiding solution design for dependent teams during quarterly planning, engaging in architecture discussions and code reviews for their features.
 
 #pagebreak()
 
 #experience("Associate Technical Specialist (Associate Technical Lead)", "Wiley", "Dec 2023", "Jun 2025", "Colombo, LK")
 - Led a team of 7 developers through the successful completion of multiple features with zero P1, P2 incidents by providing the technical leadership and guidance through code reviews, discussions, and pair programming.
-- Owned multiple key deliveries, including an enterprise-scale project to overhaul the price and order management back-end of the Wiley research publication platform.
+- Drove the technical design and delivery of an enterprise-scale overhaul of the price and order management back-end of the Wiley research publication platform, collaborating closely with architects and principal engineers to define system architecture and NFRs.
 - Provided timely fixes and workarounds for production issues as a key escalation point for L3 support
-- Partnered with product owners to streamline and reduce friction in complex user flows.
+- Served as the primary technical escalation point for L3 support, owning incident resolution and identifying systemic issues affecting platform stability.
 
+#linebreak()
 
 #experience("Senior Software Engineer", "Wiley", "Dec 2021", "Nov 2023", "Colombo, LK (Remote)")
 - Stepped in as interim team lead during high employee turnover, coordinating tasks and resources to ensure on-time, high-quality project deliveries with minimal delays.
 - Provided technical leadership and was involved in the implementation of multiple critical features, such as payment platform integration (Alipay, Credit Card) and Credit Card Fraud Detection integration (Riskified).
-- As code owner of the order management service, collaborated with architects and product owners to define functional/non-functional requirements and drive system design.
+- As code owner of the order management service, collaborated with architects and product owners to define functional/non-functional requirements and drive system design decisions.
 - Trained and mentored colleagues in Java, Git, React, business domain, and architecture.
 
 #linebreak()
@@ -84,7 +85,7 @@ and mentoring developers. Skilled in service ownership, RCA, and delivering resi
 
 #experience("Senior Software Engineer", "Surecore Pvt Ltd", "March 2020", "Dec 2020", "Colombo, LK")
 - Implemented a bespoke solution for printing insurance policies for Ceylinco General Insurance, covering the full insurance life-cycle from claim intimation to reinsurance.
-- Introduced and integrated SonarQube into the CI pipeline to maintain code quality and ensure best practices.
+- Introduced and integrated SonarQube into the CI pipeline, establishing code quality standards and best practices across the team.
 - Migrated critical microservices to Java 11 from Java 8, enhancing system performance.
 - Executed an Oracle to PostgreSQL data migration using AWS Data Migration Service, ensuring zero downtime.
 - Refactored existing code to remove performance bottlenecks.
